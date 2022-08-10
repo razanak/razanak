@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @razanak
 - 👀 I’m interested in website application
 - 🌱 I’m currently full stack web development
-- 💞️ I’m looking to collaborate on web services
+- 💞️ I’m looking to collaborate on code with other programmers
 - 📫 How to reach me mailto:razanabukhurj@gmail.com
 
 <!---
