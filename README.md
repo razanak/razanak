@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @razanak
 - 👀 I’m interested in web development
-- 🌱 I’m currently a full stack web development
+- 🌱 I’m currently a full stack web developer
 - 💞️ I’m looking to collaborate on code with other programmers
 - 📫 How to reach me mailto:razanabukhurj@gmail.com
 
